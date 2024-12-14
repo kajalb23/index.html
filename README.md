@@ -42,3 +42,16 @@
     <script src="script.js"></script>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kajal</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="bg">
+    <h1 class="c5">Happy New Year</h1>
+    <h2 class="c6">May this year brings you a lot of happiness and blessing</h2>
+</body>
+</html>
