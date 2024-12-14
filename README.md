@@ -145,7 +145,7 @@ body{
             background-position: center;
 }
 </style>
-<scr
+<script>
 const newYearDate = new Date("Jan 1, 2025 00:00:00").getTime();
 function updateCountdown() {
 const now = new Date().getTime();
